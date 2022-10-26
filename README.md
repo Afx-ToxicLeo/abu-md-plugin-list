@@ -1,5 +1,12 @@
 <h1 align="center">𝐀𝐁𝐔 𝐌𝐃 𝐏𝐋𝐔𝐆𝐈𝐍𝐒</h1>
 
+<p align="center">
+    <img src="https://i.postimg.cc/t4V7mPT3/Akash.jpg" width="50%" height="50%" alt="Relldev"/>
+    <br>
+    <a href="https://github.com/Afx-ToxicLeo"><img title="Created by" src="https://img.shields.io/badge/Creator-Toxic Leo-green?style=for-the-badge&logo=github"></a>
+</p>
+
+
 <h2 align="center">  ✰ ᴄᴏᴅᴇᴅ ʙʏ ᴛᴏxɪᴄ ʟᴇᴏ
 </h1>
 
