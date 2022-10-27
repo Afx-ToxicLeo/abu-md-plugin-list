@@ -57,3 +57,16 @@ https://gist.github.com/Afx-Abu/32d83c0ce7c781e02a6d467b9c31ffc6
 ᴘʟᴜɢɪɴ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ᴀʙᴜ ᴍᴅ
 <br />
 <br />
+
+<h4 align="center">  ❁ ᴛʀᴏʟʟ ᴍᴀᴋᴇʀ </h1>
+
+ᴄʀᴇᴀᴛᴇᴅ by :<a href="http://www.github.com/Afx-Abu">ᴀғx-ᴀʙᴜ</a>
+
+
+```js
+https://gist.github.com/Afx-Abu/f411a438dc87b3826447f2e8009f76c8
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴛʀᴏʟʟ ᴍᴀᴋᴇʀ<br /> 
+ᴘʟᴜɢɪɴ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ᴀʙᴜ ᴍᴅ
+<br />
+<br />
