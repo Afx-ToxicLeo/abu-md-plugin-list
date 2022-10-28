@@ -38,7 +38,7 @@
 
 
 ```js
-https://gist.github.com/Afx-Abu/543ea158aed6194a899357cf2bd2df19
+https://gist.github.com/Afx-Abu/890c6b1f15e908dabb2b901a5f46eab2
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴍᴏʀᴇ ɴᴜᴍʙᴇʀs ᴀᴅᴅɪɴɢ ɪɴ sᴜᴅᴏ ᴄᴏɴᴛʀᴏʟᴇʀ<br /> 
 ᴘʟᴜɢɪɴ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ᴀʙᴜ ᴍᴅ
