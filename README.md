@@ -70,3 +70,17 @@ https://gist.github.com/Afx-Abu/f411a438dc87b3826447f2e8009f76c8
 ᴘʟᴜɢɪɴ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ᴀʙᴜ ᴍᴅ
 <br />
 <br />
+
+
+<h4 align="center">  ❁ ɪɴᴛʀᴏ </h1>
+
+ᴄʀᴇᴀᴛᴇᴅ by :<a href="http://www.github.com/Afx-Abu">ᴀғx-ᴀʙᴜ</a>
+
+
+```js
+https://gist.github.com/Afx-ToxicLeo/1945c456777875198603142fed69a954
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ɪɴᴛʀᴏ<br /> 
+ᴘʟᴜɢɪɴ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ᴀʙᴜ ᴍᴅ
+<br />
+<br />
