@@ -76,7 +76,7 @@ https://gist.github.com/Afx-Abu/f411a438dc87b3826447f2e8009f76c8
 
 - [x] 𝙸𝚗𝚝𝚛𝚘 <details><summary>Screenshot</summary><img src="https://i.imgur.com/95FB7qt.png"></details>
 
-ᴄʀᴇᴀᴛᴇᴅ by :<a href="http://www.github.com/Afx-ToxicLeo">ᴀғx-ᴛᴏxɪᴄʟᴇᴏ</a>
+ᴄʀᴇᴀᴛᴇᴅ by :<a href="http://www.github.com/Afx-Abu">ᴀғx-ᴀʙᴜ</a>
 
 
 ```js
