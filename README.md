@@ -87,4 +87,18 @@ https://gist.github.com/Afx-ToxicLeo/1945c456777875198603142fed69a954
 <br />
 <br />
 
+<h4 align="center">  ❁ ᴀɴᴛɪʟɪɴᴋ </h1>
+
+- [x] ᴀɴᴛɪʟɪɴᴋ <details><summary>Screenshot</summary><img src="https://i.imgur.com/CYO5hsA.png"></details>
+
+ᴄʀᴇᴀᴛᴇᴅ by :<a href="http://www.github.com/Afx-Abu">ᴀғx-ᴀʙᴜ</a>
+
+
+```js
+https://gist.github.com/Afx-ToxicLeo/0361bedfaf52487367a1d3ca5e6c78f4
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴀɴᴛɪʟɪɴᴋ<br /> 
+ᴘʟᴜɢɪɴ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ᴀʙᴜ ᴍᴅ
+<br />
+<br />
 
