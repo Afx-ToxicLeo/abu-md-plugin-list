@@ -6,6 +6,9 @@
     <a href="https://github.com/Afx-ToxicLeo"><img title="Created by" src="https://img.shields.io/badge/Creator-Toxic Leo-green?style=for-the-badge&logo=github"></a>
 </p>
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 <h2 align="center">   ᴄᴏᴅᴇᴅ ʙʏ ᴛᴏxɪᴄ ʟᴇᴏ
 </h1>
